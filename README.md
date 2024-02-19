@@ -1,1 +1,1 @@
-# Implentations of algorithms from scratch
+Implentations of algorithms from scratch
