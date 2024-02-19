@@ -1,1 +1,1 @@
-# algorithm_from_scratch_implementations
+# Implentations of algorithms from scratch
